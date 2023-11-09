@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: beige;
+    text-align: center;
+}
+
+button {
+
+    padding: 4%;
+    margin: 20px;
+}
+
+h1 {
+    border-style: ridge;
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+}
+
+h4 {
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
